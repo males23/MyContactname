@@ -37,6 +37,7 @@
             LB_Contacts = new ListBox();
             CB_group = new ComboBox();
             PNL_Right = new Panel();
+            BT_DeleteContact = new Button();
             label6 = new Label();
             label5 = new Label();
             label4 = new Label();
@@ -48,7 +49,6 @@
             LB_Name = new Label();
             LB_Group = new Label();
             PB_ContactPhoto = new PictureBox();
-            BT_DeleteContact = new Button();
             PNL_Left.SuspendLayout();
             group_contact_list.SuspendLayout();
             Group_Search.SuspendLayout();
@@ -103,6 +103,7 @@
             button1.TabIndex = 1;
             button1.Text = "Ajouter";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // LB_Contacts
             // 
@@ -141,6 +142,18 @@
             PNL_Right.Name = "PNL_Right";
             PNL_Right.Size = new Size(592, 662);
             PNL_Right.TabIndex = 1;
+            // 
+            // BT_DeleteContact
+            // 
+            BT_DeleteContact.BackColor = Color.Transparent;
+            BT_DeleteContact.BackgroundImage = (Image)resources.GetObject("BT_DeleteContact.BackgroundImage");
+            BT_DeleteContact.BackgroundImageLayout = ImageLayout.Stretch;
+            BT_DeleteContact.FlatStyle = FlatStyle.Flat;
+            BT_DeleteContact.Location = new Point(538, 12);
+            BT_DeleteContact.Name = "BT_DeleteContact";
+            BT_DeleteContact.Size = new Size(32, 32);
+            BT_DeleteContact.TabIndex = 11;
+            BT_DeleteContact.UseVisualStyleBackColor = false;
             // 
             // label6
             // 
@@ -235,9 +248,9 @@
             // LB_Group
             // 
             LB_Group.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            LB_Group.Location = new Point(326, 361);
+            LB_Group.Location = new Point(422, 361);
             LB_Group.Name = "LB_Group";
-            LB_Group.Size = new Size(244, 38);
+            LB_Group.Size = new Size(162, 38);
             LB_Group.TabIndex = 1;
             LB_Group.Text = "Groupe";
             LB_Group.TextAlign = ContentAlignment.MiddleRight;
@@ -246,24 +259,12 @@
             // 
             PB_ContactPhoto.BorderStyle = BorderStyle.FixedSingle;
             PB_ContactPhoto.Image = (Image)resources.GetObject("PB_ContactPhoto.Image");
-            PB_ContactPhoto.Location = new Point(3, 0);
+            PB_ContactPhoto.Location = new Point(3, 3);
             PB_ContactPhoto.Name = "PB_ContactPhoto";
-            PB_ContactPhoto.Size = new Size(581, 405);
+            PB_ContactPhoto.Size = new Size(581, 402);
             PB_ContactPhoto.SizeMode = PictureBoxSizeMode.CenterImage;
             PB_ContactPhoto.TabIndex = 0;
             PB_ContactPhoto.TabStop = false;
-            // 
-            // BT_DeleteContact
-            // 
-            BT_DeleteContact.BackColor = Color.Transparent;
-            BT_DeleteContact.BackgroundImage = (Image)resources.GetObject("BT_DeleteContact.BackgroundImage");
-            BT_DeleteContact.BackgroundImageLayout = ImageLayout.Stretch;
-            BT_DeleteContact.FlatStyle = FlatStyle.Flat;
-            BT_DeleteContact.Location = new Point(538, 12);
-            BT_DeleteContact.Name = "BT_DeleteContact";
-            BT_DeleteContact.Size = new Size(32, 32);
-            BT_DeleteContact.TabIndex = 11;
-            BT_DeleteContact.UseVisualStyleBackColor = false;
             // 
             // BT_AddContact
             // 

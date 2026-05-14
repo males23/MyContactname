@@ -16,3 +16,15 @@ C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\Projet1_App
 C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.BT_AddContact.resources
 C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.AddContactWindow.resources
 C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.Properties.Resources.resources
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.AddContactWindow.resources
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.BT_AddContact.resources
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.Properties.Resources.resources
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.csproj.GenerateResource.cache
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.AssemblyInfoInputs.cache
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.AssemblyInfo.cs
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.sourcelink.json
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.dll
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\refint\MyContacts.dll
+C:\Users\males\Documents\GitHub\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\MyContactname\MyContacts\MyContacts\obj\Debug\net8.0-windows\MyContacts.pdb

@@ -6,5 +6,11 @@ namespace MyContacts
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            AddContactWindow acw = new AddContactWindow();
+            acw.ShowDialog();   
+        }
     }
 }

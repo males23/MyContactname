@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MyContacts\\MyContacts\\MyContacts.csproj",
+      "projectUniqueName": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MyContactname\\MyContacts\\MyContacts\\MyContacts.csproj",
       "projectName": "MyContacts",
-      "projectPath": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MyContacts\\MyContacts\\MyContacts.csproj",
+      "projectPath": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MyContactname\\MyContacts\\MyContacts\\MyContacts.csproj",
       "packagesPath": "C:\\Users\\males\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MyContacts\\MyContacts\\obj\\",
+      "outputPath": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MyContactname\\MyContacts\\MyContacts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
